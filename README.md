@@ -1,6 +1,6 @@
 <!-- Add your image (Replace the link with your own photo or graphic) -->
 <p align="center">
-  <img src="https://your-image-link-here.com" alt="Whispr Logo" width="300"/>
+  <img src="[https://your-image-link-here.com](https://raw.githubusercontent.com/bijaybastola/bijaybastola/main/image-filename.extension)" alt="Whispr Logo" width="300"/>
 </p>
 
 # Hi, I'm [Bijay Bastola]! 👋
