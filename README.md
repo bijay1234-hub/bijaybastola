@@ -1,6 +1,6 @@
 <!-- Add your image (Replace the link with your own photo or graphic) -->
 <p align="center">
-  <img src="[https://github.com/bijaybastola/bijaybastola/blob/main/wp7413218.jpg?raw=true)" alt="Whispr Logo" width="300"/>
+  <img src="[https://github.com/bijaybastola/bijaybastola/blob/main/wp7413218.jpg?raw=true)" alt="profile" width="300"/>
 </p>
 
 # Hi, I'm [Bijay Bastola]! 👋
@@ -39,7 +39,6 @@ I’m a **software developer** with a passion for creating innovative applicatio
 ## 📫 How to Reach Me:
 
 - **Email:** [bijaybastola1234@gmail.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
 - **GitHub:**https://github.com/bijaybastola/
 
 ---
