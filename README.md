@@ -40,7 +40,7 @@ I’m a **software developer** with a passion for creating innovative applicatio
 
 - **Email:** [bijaybastola1234@gmail.com](mailto:your.email@example.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **GitHub:**(\https://github.com/bijaybastola/bijaybastola/blob/main/wp7413218.jpg?raw=true)
+- **GitHub:**https://github.com/bijaybastola/
 
 ---
 
