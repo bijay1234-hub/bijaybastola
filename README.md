@@ -1,32 +1,49 @@
-# Hi there, I'm [bijay bastola] 👋
+<!-- Add your image (Replace the link with your own photo or graphic) -->
+<p align="center">
+  <img src="https://your-image-link-here.com" alt="Whispr Logo" width="300"/>
+</p>
 
-### Welcome to my GitHub Profile!
+# Hi, I'm [Your Name]! 👋
 
-I’m a passionate software developer currently working on **Whispr**, a real-time chat application built with Dart and Flutter. I love building innovative projects and am constantly exploring new technologies!
-
-### 🛠️ Technologies & Tools I Use:
-- **Languages:** Dart, JavaScript, HTML, CSS
-- **Frameworks:** Flutter, Node.js
-- **Databases:** MongoDB
-- **Version Control:** Git, GitHub
-- **Cloud Services:** Firebase, Heroku
-
-### 🚀 My Projects:
-- [Whispr Chat App](https://github.com/yourusername/Whispr) - A fully-featured chat app with image and video sharing, message read status, video calls, and more.
-- [Project Name](https://github.com/yourusername/project) - Brief description of another cool project.
-
-### 🌱 Currently Learning:
-- Advanced Flutter UI techniques
-- WebRTC for video calling features
-- Improving backend performance with Node.js
-
-### 📫 Get in Touch:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-
-Let's connect and collaborate on some exciting projects!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&height=50&lines=Flutter+Developer;Full+Stack+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
+</p>
 
 ---
 
-**Fun Fact:** I’m always looking to contribute to open-source projects. Feel free to reach out if you have an idea!
+## About Me
 
+I’m a **software developer** with a passion for creating innovative applications. Currently, I'm working on **Whispr**, a chat app that features real-time messaging, image and video sharing, and video calling functionality. I'm always eager to explore new technologies and improve my skills.
+
+- 🔭 I’m currently working on **Whispr** (A chat app).
+- 🌱 I’m currently learning **WebRTC** and advanced **Flutter** techniques.
+- 👯 I’m looking to collaborate on **open-source** projects.
+- 💬 Ask me about **Flutter**, **Node.js**, and **real-time applications**.
+
+---
+
+## 🛠️ Tools & Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+</p>
+
+---
+
+## 📫 How to Reach Me:
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
