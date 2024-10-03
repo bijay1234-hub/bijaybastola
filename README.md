@@ -38,7 +38,7 @@ I’m a **software developer** with a passion for creating innovative applicatio
 
 ## 📫 How to Reach Me:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [bijaybastola1234@gmail.com](mailto:your.email@example.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
 - **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
 
