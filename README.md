@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [bijay bastola] 👋
 
 ### Welcome to my GitHub Profile!
 
