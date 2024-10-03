@@ -3,7 +3,7 @@
   <img src="https://your-image-link-here.com" alt="Whispr Logo" width="300"/>
 </p>
 
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm [Bijay BAstola]! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&height=50&lines=Flutter+Developer;Full+Stack+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
